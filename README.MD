@@ -2,19 +2,19 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido para o desafio de conclusão do curso Criando um Ebook com ChatGPT & MidJourney disponibilizado pela plataforma  [DIO](https://dio.me) em parceria com Santander
+ >⚠️**NOTE:** Este é o repositório desenvolvido para o desafio de conclusão do curso Criando um Ebook com ChatGPT & MidJourney disponibilizado pela plataforma  [DIO](https://dio.me) em parceria com Santander
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
 <a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
-## 💻 Tecnologias utilizadas no projeto
+## 👩‍💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [DALL-E](https://openai.com/index/dall-e-2/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
-## 🧠 Prompts
+## 💢 Prompts
 
 
 ChatGPT：
@@ -31,12 +31,12 @@ DALL-E2：
 | :----: | -------------------------------------------------------------------------------------- |
 | título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
 
-## ✨ Features
+## 📢 Features
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via DALL-E2
 
-## 📚 Materiais
+## 📚🖋️ Materiais
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
