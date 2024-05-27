@@ -11,7 +11,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 ## 👩‍💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [DALL-E](https://openai.com/index/dall-e-2/)
+- [Openart](https://openart.ai/create)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 💢 Prompts
@@ -25,16 +25,22 @@ ChatGPT：
 | conteúdo | Gere um texto para e-book sobre SQL, com titulo SQl na Plataforma 9¾: Magia nos Dados {REGRAS} >Use linguagem simples e acessível.>Inclua exemplos de aplicações sempre que possível. >Os textos explicativos devem ser breves e diretos. >Separe o texto por títulos de capítulos e subtítulos, organizando o conteúdo de forma clara e estruturada. |
 
 
-DALL-E2：
+Openart：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Create a scenario where Platform 9¾ merges with a magical database, where the tracks transform into rows and columns of a table, and Hogwarts students are replaced by SQL queries coming to life. Picture elements such as magic wands executing queries, spells turning data into charts and reports, and Hogwarts Castle looming in the background.
+
+
+
+
+
+ |
 
 ## 📢 Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via DALL-E2
+- Imagens geradas via Openart
 
 ## 📚🖋️ Materiais
 
