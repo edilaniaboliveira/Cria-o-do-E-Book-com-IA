@@ -4,7 +4,7 @@
 
  >⚠️**NOTE:** Este é o repositório desenvolvido para o desafio de conclusão do curso Criando um Ebook com ChatGPT & MidJourney disponibilizado pela plataforma  [DIO](https://dio.me) em parceria com Santander
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts ustilizados na contrução desse projeto seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts utilizados na contrução desse projeto seguem abaixo.
 
 <a href="https://github.com/edilaniaboliveira/Criando-E-Book-com-IA/blob/main/resultados/SQL%20na%20Plataforma%209%C2%BE.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
